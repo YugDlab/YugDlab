@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Úrsula+Fernanda;I'm+26+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=WELCOME,+I´m+just+a+poor+boy;I+need+no+symphaty;and;If+I'm+not+back+again+this+time+tomorrow; Carry on+Carry on;](https://git.io/typing-svg)
 ## Hi there 👋
 
 <!--
