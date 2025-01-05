@@ -1,4 +1,28 @@
-<h2 align="left">Stats</h2>
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">- Data Science Student at EBAC;<br>- Expanding my frontiers of Knowledge;<br>- Bitcoiner;<br>- Passionate about patterns and good music;<br>- In perpetual search of 42;</p>
+
+###
+
+<h2 align="left">Techs</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+</div>
+
+###
+
+<h2 align="left">My Stats</h2>
 
 ###
 
@@ -9,4 +33,3 @@
 </div>
 
 ###
- 
