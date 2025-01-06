@@ -1,8 +1,29 @@
+<h1>🛸Diego Valentim</h1>
+
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">- Data Science Student at EBAC;<br>- Expanding my frontiers of Knowledge;<br>- Bitcoiner;<br>- Passionate about patterns and good music;<br>- In perpetual search of 42;</p>
+<p align="left"><li>Data Science Student at EBAC;</li><li>Expanding my frontiers of Knowledge;</li><li>Bitcoiner;</li><li>Passionate about patterns and good music;</li><li>In perpetual search of 42;</li></p>
+
+<p align="left">
+    <a href="https://github.com/YugDlab?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/YugDlab?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
+        />
+    </a>
+    <a href="https://github.com/YugDlab?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/YugDlab?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
+        />
+    </a>
+</p>
+
+
 
 ###
 
